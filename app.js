@@ -8,7 +8,7 @@ app.get("/",(req,res)=>{
 })
 
 app.get("/:id",(req,res)=>{
-    res.send("Hello " + req.params.id);
+    res.send("Hello " + req.params.id + " Welcome");
     console.log("Logged in");
 })
 
