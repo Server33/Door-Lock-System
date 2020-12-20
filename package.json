@@ -1,0 +1,23 @@
+{
+  "name": "door-lock-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Server33/door-lock-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Server33/door-lock-system.git/issues"
+  },
+  "homepage": "https://github.com/Server33/door-lock-system.git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
